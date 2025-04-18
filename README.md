@@ -31,6 +31,10 @@ Este projeto é um **Aplicativo de Força de Venda** desenvolvido em Flutter, co
 - **Dart**  
 - **JSON**  
 
+## Membros
+   - Matheus Cordeiro - 22217014
+   - Vitor Saar - 122100011
+
 ## Como Rodar o Projeto
 
 1. **Pré-requisitos**  
